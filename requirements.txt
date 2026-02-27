@@ -1,6 +1,7 @@
-discord.py>=2.3.0
+discord.py>=2.0.0
 python-dotenv>=1.0.0
 aiosqlite>=0.19.0
 yt-dlp>=2023.9.24
 colorama>=0.4.6
+
 aiohttp>=3.9.0
